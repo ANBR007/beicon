@@ -1,0 +1,21 @@
+{
+  "app": {
+    "[project]/src/app/_not-found/page": [
+      "static/media/NeueMontreal_Light-s.p.3cmcmmz5s9jeu.otf",
+      "static/media/NeueMontreal_Regular-s.p.2gj78a0wfry_d.otf",
+      "static/media/NeueMontreal_Italic-s.p.2cvf6nketg4ti.otf",
+      "static/media/NeueMontreal_Medium-s.p.358qarlh6_b7w.otf",
+      "static/media/NeueMontreal_Bold-s.p.2ywwwlx1007us.otf"
+    ],
+    "[project]/src/app/page": [
+      "static/media/NeueMontreal_Light-s.p.3cmcmmz5s9jeu.otf",
+      "static/media/NeueMontreal_Regular-s.p.2gj78a0wfry_d.otf",
+      "static/media/NeueMontreal_Italic-s.p.2cvf6nketg4ti.otf",
+      "static/media/NeueMontreal_Medium-s.p.358qarlh6_b7w.otf",
+      "static/media/NeueMontreal_Bold-s.p.2ywwwlx1007us.otf"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}
